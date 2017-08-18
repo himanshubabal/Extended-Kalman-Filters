@@ -35,12 +35,9 @@
       <file leaf-file-name="main.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="590">
-              <caret line="155" column="0" lean-forward="true" selection-start-line="155" selection-start-column="0" selection-end-line="155" selection-end-column="0" />
-              <folding>
-                <element signature="e#2366#3457#0" expanded="false" />
-                <element signature="e#3459#4442#0" expanded="false" />
-              </folding>
+            <state relative-caret-position="544">
+              <caret line="153" column="16" lean-forward="false" selection-start-line="124" selection-start-column="4" selection-end-line="153" selection-end-column="16" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -190,12 +187,12 @@
       <updated>1502967292764</updated>
       <workItem from="1502967295852" duration="3386000" />
       <workItem from="1503072335968" duration="669000" />
-      <workItem from="1503073114146" duration="2500000" />
+      <workItem from="1503073114146" duration="3090000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6555000" />
+    <option name="totallyTimeSpent" value="7145000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="828" extended-state="6" />
@@ -286,10 +283,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="805">
           <caret line="35" column="28" lean-forward="false" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="28" />
-          <folding>
-            <element signature="e#2366#3457#0" expanded="false" />
-            <element signature="e#3459#4442#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -305,10 +299,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="690">
           <caret line="30" column="29" lean-forward="false" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
-          <folding>
-            <element signature="e#2366#3457#0" expanded="false" />
-            <element signature="e#3459#4442#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -413,12 +404,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="590">
-          <caret line="155" column="0" lean-forward="true" selection-start-line="155" selection-start-column="0" selection-end-line="155" selection-end-column="0" />
-          <folding>
-            <element signature="e#2366#3457#0" expanded="false" />
-            <element signature="e#3459#4442#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="544">
+          <caret line="153" column="16" lean-forward="false" selection-start-line="124" selection-start-column="4" selection-end-line="153" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
