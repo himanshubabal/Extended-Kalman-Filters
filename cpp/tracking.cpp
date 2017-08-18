@@ -67,7 +67,6 @@ void Tracking::ProcessMeasurement(const MeasurementPackage &measurement_pack) {
     float dt = (measurement_pack.timestamp_ - previous_timestamp_) / 1000000.0;	//dt - expressed in seconds
     previous_timestamp_ = measurement_pack.timestamp_;
 
-    // TODO: YOUR CODE HERE
     //1. Modify the F matrix so that the time is integrated
     kf_.F_ << 1, 0, dt, 0,
               0, 1, 0, dt,
