@@ -12,22 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df407bd6-b260-4357-856f-1ff4ea8c65a6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CarND-Extended-Kalman-Filter-Project-master/cmake-build-debug/CMakeFiles/ExtendedKF.dir/src/FusionEKF.cpp.o" afterPath="$PROJECT_DIR$/../CarND-Extended-Kalman-Filter-Project-master/cmake-build-debug/CMakeFiles/ExtendedKF.dir/src/FusionEKF.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CarND-Extended-Kalman-Filter-Project-master/cmake-build-debug/CMakeFiles/ExtendedKF.dir/src/kalman_filter.cpp.o" afterPath="$PROJECT_DIR$/../CarND-Extended-Kalman-Filter-Project-master/cmake-build-debug/CMakeFiles/ExtendedKF.dir/src/kalman_filter.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CarND-Extended-Kalman-Filter-Project-master/cmake-build-debug/CMakeFiles/ExtendedKF.dir/src/main.cpp.o" afterPath="$PROJECT_DIR$/../CarND-Extended-Kalman-Filter-Project-master/cmake-build-debug/CMakeFiles/ExtendedKF.dir/src/main.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CarND-Extended-Kalman-Filter-Project-master/cmake-build-debug/CMakeFiles/ExtendedKF.dir/src/tools.cpp.o" afterPath="$PROJECT_DIR$/../CarND-Extended-Kalman-Filter-Project-master/cmake-build-debug/CMakeFiles/ExtendedKF.dir/src/tools.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CarND-Extended-Kalman-Filter-Project-master/cmake-build-debug/ExtendedKF" afterPath="$PROJECT_DIR$/../CarND-Extended-Kalman-Filter-Project-master/cmake-build-debug/ExtendedKF" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CarND-Extended-Kalman-Filter-Project-master/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../CarND-Extended-Kalman-Filter-Project-master/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CarND-Extended-Kalman-Filter-Project-master/cmake-build-debug/CMakeFiles/ExtendedKF.dir/CXX.includecache" afterPath="$PROJECT_DIR$/../CarND-Extended-Kalman-Filter-Project-master/cmake-build-debug/CMakeFiles/ExtendedKF.dir/CXX.includecache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CarND-Extended-Kalman-Filter-Project-master/cmake-build-debug/CMakeFiles/ExtendedKF.dir/depend.internal" afterPath="$PROJECT_DIR$/../CarND-Extended-Kalman-Filter-Project-master/cmake-build-debug/CMakeFiles/ExtendedKF.dir/depend.internal" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CarND-Extended-Kalman-Filter-Project-master/cmake-build-debug/CMakeFiles/ExtendedKF.dir/depend.make" afterPath="$PROJECT_DIR$/../CarND-Extended-Kalman-Filter-Project-master/cmake-build-debug/CMakeFiles/ExtendedKF.dir/depend.make" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CarND-Extended-Kalman-Filter-Project-master/src/FusionEKF.cpp" afterPath="$PROJECT_DIR$/../CarND-Extended-Kalman-Filter-Project-master/src/FusionEKF.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CarND-Extended-Kalman-Filter-Project-master/src/kalman_filter.cpp" afterPath="$PROJECT_DIR$/../CarND-Extended-Kalman-Filter-Project-master/src/kalman_filter.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CarND-Extended-Kalman-Filter-Project-master/src/tools.cpp" afterPath="$PROJECT_DIR$/../CarND-Extended-Kalman-Filter-Project-master/src/tools.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CarND-Extended-Kalman-Filter-Project-master/src/tools.h" afterPath="$PROJECT_DIR$/../CarND-Extended-Kalman-Filter-Project-master/src/tools.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tools.cpp" afterPath="$PROJECT_DIR$/src/tools.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tools.h" afterPath="$PROJECT_DIR$/src/tools.h" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ukf.cpp" afterPath="$PROJECT_DIR$/src/ukf.cpp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ukf.h" afterPath="$PROJECT_DIR$/src/ukf.h" />
     </list>
@@ -44,16 +29,33 @@
       <file leaf-file-name="ukf.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ukf.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="277" column="23" lean-forward="false" selection-start-line="277" selection-start-column="23" selection-end-line="277" selection-end-column="23" />
+            <state relative-caret-position="182">
+              <caret line="73" column="12" lean-forward="false" selection-start-line="73" selection-start-column="12" selection-end-line="73" selection-end-column="12" />
               <folding>
                 <element signature="e#0#16#0" expanded="true" />
-                <element signature="e#3354#5497#0" expanded="false" />
-                <element signature="e#5499#8780#0" expanded="false" />
-                <element signature="e#8782#12165#0" expanded="false" />
-                <element signature="e#12167#14920#0" expanded="false" />
-                <element signature="e#14922#18794#0" expanded="false" />
-                <element signature="e#18796#23719#0" expanded="false" />
+                <element signature="e#2846#5365#0" expanded="false" />
+                <element signature="e#5367#8687#0" expanded="false" />
+                <element signature="e#8689#9208#0" expanded="false" />
+                <element signature="e#9210#10597#0" expanded="false" />
+                <element signature="e#13201#15344#0" expanded="false" />
+                <element signature="e#15346#18627#0" expanded="false" />
+                <element signature="e#18629#22012#0" expanded="false" />
+                <element signature="e#22014#24767#0" expanded="false" />
+                <element signature="e#24769#28641#0" expanded="false" />
+                <element signature="e#28643#33566#0" expanded="false" />
+                <element signature="e#33568#33648#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#20#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -62,8 +64,8 @@
       <file leaf-file-name="ukf.h" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ukf.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="111" column="0" lean-forward="true" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
+            <state relative-caret-position="-137">
+              <caret line="77" column="0" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -72,8 +74,8 @@
       <file leaf-file-name="tools.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/tools.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="644">
-              <caret line="28" column="16" lean-forward="false" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+            <state relative-caret-position="268">
+              <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -91,8 +93,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/tools.h" />
         <option value="$PROJECT_DIR$/src/tools.cpp" />
-        <option value="$PROJECT_DIR$/src/ukf.cpp" />
         <option value="$PROJECT_DIR$/src/ukf.h" />
+        <option value="$PROJECT_DIR$/src/ukf.cpp" />
       </list>
     </option>
   </component>
@@ -173,12 +175,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1503161554340</updated>
-      <workItem from="1503161556357" duration="1180000" />
+      <workItem from="1503161556357" duration="8277000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1180000" />
+    <option name="totallyTimeSpent" value="8277000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -194,13 +196,13 @@
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287858" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3287858" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287858" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2510232" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16523606" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -222,6 +224,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/tools.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="26" column="38" lean-forward="false" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -232,18 +242,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tools.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="26" column="38" lean-forward="false" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/tools.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="28" column="16" lean-forward="false" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+        <state relative-caret-position="268">
+          <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
@@ -252,24 +254,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ukf.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="111" column="0" lean-forward="true" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
+        <state relative-caret-position="-137">
+          <caret line="77" column="0" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/measurement_package.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-37">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ukf.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="277" column="23" lean-forward="false" selection-start-line="277" selection-start-column="23" selection-end-line="277" selection-end-column="23" />
+        <state relative-caret-position="182">
+          <caret line="73" column="12" lean-forward="false" selection-start-line="73" selection-start-column="12" selection-end-line="73" selection-end-column="12" />
           <folding>
             <element signature="e#0#16#0" expanded="true" />
-            <element signature="e#3354#5497#0" expanded="false" />
-            <element signature="e#5499#8780#0" expanded="false" />
-            <element signature="e#8782#12165#0" expanded="false" />
-            <element signature="e#12167#14920#0" expanded="false" />
-            <element signature="e#14922#18794#0" expanded="false" />
-            <element signature="e#18796#23719#0" expanded="false" />
+            <element signature="e#2846#5365#0" expanded="false" />
+            <element signature="e#5367#8687#0" expanded="false" />
+            <element signature="e#8689#9208#0" expanded="false" />
+            <element signature="e#9210#10597#0" expanded="false" />
+            <element signature="e#13201#15344#0" expanded="false" />
+            <element signature="e#15346#18627#0" expanded="false" />
+            <element signature="e#18629#22012#0" expanded="false" />
+            <element signature="e#22014#24767#0" expanded="false" />
+            <element signature="e#24769#28641#0" expanded="false" />
+            <element signature="e#28643#33566#0" expanded="false" />
+            <element signature="e#33568#33648#0" expanded="false" />
           </folding>
         </state>
       </provider>

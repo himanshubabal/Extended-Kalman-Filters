@@ -64,9 +64,17 @@ public:
     ///* Augmented state dimension
     int n_aug_;
 
+    ///* Number of sigma points
+    int n_sigma_;
+
     ///* Sigma point spreading parameter
     double lambda_;
 
+    MatrixXd R_Radar_;
+    MatrixXd R_Lidar_;
+
+    double NIS_radar_;
+    double NIS_laser_;
 
     /**
     * Constructor
@@ -103,6 +111,8 @@ public:
     */
     void UpdateRadar(MeasurementPackage meas_package);
 
+    void UpdateAll(MeasurementPackage meas_package, MatrixXd Zsig, int n_z);
+
     // Useful Mathods from quizes
     void GenerateSigmaPoints(MatrixXd* Xsig_out);
 
@@ -115,6 +125,8 @@ public:
     void PredictRadarMeasurement(VectorXd* z_out, MatrixXd* S_out);
 
     void UpdateState(VectorXd* x_out, MatrixXd* P_out);
+
+    double NormaliseAngle(double phi);
 
 };
 

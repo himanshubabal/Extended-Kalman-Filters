@@ -12,21 +12,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d36f926-2e0d-42f3-8ba2-b56933b6ca26" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ExtendedKF.dir/src/kalman_filter.cpp.o" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ExtendedKF.dir/src/FusionEKF.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ExtendedKF.dir/src/FusionEKF.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ExtendedKF.dir/src/main.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ExtendedKF.dir/src/main.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ExtendedKF.dir/src/tools.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ExtendedKF.dir/src/tools.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ExtendedKF.dir/CXX.includecache" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ExtendedKF.dir/CXX.includecache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ExtendedKF.dir/depend.internal" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ExtendedKF.dir/depend.internal" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ExtendedKF.dir/depend.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ExtendedKF.dir/depend.make" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/FusionEKF.cpp" afterPath="$PROJECT_DIR$/src/FusionEKF.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/kalman_filter.cpp" afterPath="$PROJECT_DIR$/src/kalman_filter.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tools.cpp" afterPath="$PROJECT_DIR$/src/tools.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tools.h" afterPath="$PROJECT_DIR$/src/tools.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CarND-Unscented-Kalman-Filter-Project-master/cmake-build-debug/UnscentedKF" afterPath="$PROJECT_DIR$/../CarND-Unscented-Kalman-Filter-Project-master/cmake-build-debug/UnscentedKF" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CarND-Unscented-Kalman-Filter-Project-master/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../CarND-Unscented-Kalman-Filter-Project-master/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CarND-Unscented-Kalman-Filter-Project-master/src/tools.cpp" afterPath="$PROJECT_DIR$/../CarND-Unscented-Kalman-Filter-Project-master/src/tools.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CarND-Unscented-Kalman-Filter-Project-master/src/tools.h" afterPath="$PROJECT_DIR$/../CarND-Unscented-Kalman-Filter-Project-master/src/tools.h" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CarND-Unscented-Kalman-Filter-Project-master/src/ukf.cpp" afterPath="$PROJECT_DIR$/../CarND-Unscented-Kalman-Filter-Project-master/src/ukf.cpp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CarND-Unscented-Kalman-Filter-Project-master/src/ukf.h" afterPath="$PROJECT_DIR$/../CarND-Unscented-Kalman-Filter-Project-master/src/ukf.h" />
     </list>
@@ -56,8 +43,8 @@
       <file leaf-file-name="tools.h" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/tools.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="31" column="38" lean-forward="true" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="38" />
+            <state relative-caret-position="152">
+              <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -88,7 +75,7 @@
       <file leaf-file-name="kalman_filter.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/kalman_filter.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1656">
+            <state relative-caret-position="199">
               <caret line="72" column="42" lean-forward="false" selection-start-line="72" selection-start-column="42" selection-end-line="72" selection-end-column="42" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
@@ -100,8 +87,8 @@
       <file leaf-file-name="FusionEKF.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/FusionEKF.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-45">
-              <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+            <state relative-caret-position="315">
+              <caret line="158" column="20" lean-forward="true" selection-start-line="158" selection-start-column="20" selection-end-line="158" selection-end-column="20" />
               <folding>
                 <element signature="e#0#22#0" expanded="true" />
               </folding>
@@ -213,12 +200,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1503078242124</updated>
-      <workItem from="1503078243777" duration="10582000" />
+      <workItem from="1503078243777" duration="12783000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10582000" />
+    <option name="totallyTimeSpent" value="12783000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -290,8 +277,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/tools.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="31" column="38" lean-forward="true" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="38" />
+        <state relative-caret-position="152">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -309,7 +296,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/kalman_filter.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1656">
+        <state relative-caret-position="199">
           <caret line="72" column="42" lean-forward="false" selection-start-line="72" selection-start-column="42" selection-end-line="72" selection-end-column="42" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
@@ -319,8 +306,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FusionEKF.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-45">
-          <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+        <state relative-caret-position="315">
+          <caret line="158" column="20" lean-forward="true" selection-start-line="158" selection-start-column="20" selection-end-line="158" selection-end-column="20" />
           <folding>
             <element signature="e#0#22#0" expanded="true" />
           </folding>
