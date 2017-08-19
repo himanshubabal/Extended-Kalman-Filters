@@ -12,7 +12,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d36f926-2e0d-42f3-8ba2-b56933b6ca26" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CarND-Unscented-Kalman-Filter-Project-master/cmake-build-debug/CMakeFiles/UnscentedKF.dir/src/ukf.cpp.o" afterPath="$PROJECT_DIR$/../CarND-Unscented-Kalman-Filter-Project-master/cmake-build-debug/CMakeFiles/UnscentedKF.dir/src/ukf.cpp.o" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CarND-Unscented-Kalman-Filter-Project-master/cmake-build-debug/UnscentedKF" afterPath="$PROJECT_DIR$/../CarND-Unscented-Kalman-Filter-Project-master/cmake-build-debug/UnscentedKF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CarND-Unscented-Kalman-Filter-Project-master/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../CarND-Unscented-Kalman-Filter-Project-master/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CarND-Unscented-Kalman-Filter-Project-master/src/ukf.cpp" afterPath="$PROJECT_DIR$/../CarND-Unscented-Kalman-Filter-Project-master/src/ukf.cpp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CarND-Unscented-Kalman-Filter-Project-master/src/ukf.h" afterPath="$PROJECT_DIR$/../CarND-Unscented-Kalman-Filter-Project-master/src/ukf.h" />

@@ -113,18 +113,6 @@ public:
 
     void UpdateAll(MeasurementPackage meas_package, MatrixXd Zsig, int n_z);
 
-    // Useful Mathods from quizes
-    void GenerateSigmaPoints(MatrixXd* Xsig_out);
-
-    void AugmentedSigmaPoints(MatrixXd* Xsig_out);
-
-    void SigmaPointPrediction(MatrixXd* Xsig_out);
-
-    void PredictMeanAndCovariance(VectorXd* x_out, MatrixXd* P_out);
-
-    void PredictRadarMeasurement(VectorXd* z_out, MatrixXd* S_out);
-
-    void UpdateState(VectorXd* x_out, MatrixXd* P_out);
 
     double NormaliseAngle(double phi);
 
