@@ -11,13 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df407bd6-b260-4357-856f-1ff4ea8c65a6" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/UnscentedKF.dir/src/ukf.cpp.o" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CarND-Extended-Kalman-Filter-Project-master/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../CarND-Extended-Kalman-Filter-Project-master/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ukf.cpp" afterPath="$PROJECT_DIR$/src/ukf.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ukf.h" afterPath="$PROJECT_DIR$/src/ukf.h" />
-    </list>
+    <list default="true" id="df407bd6-b260-4357-856f-1ff4ea8c65a6" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -183,12 +177,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1503161554340</updated>
-      <workItem from="1503161556357" duration="9186000" />
+      <workItem from="1503161556357" duration="9280000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9186000" />
+    <option name="totallyTimeSpent" value="9280000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
